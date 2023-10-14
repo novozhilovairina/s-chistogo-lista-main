@@ -1,0 +1,41 @@
+@font-face {
+    font-family:'EB Garamond';
+    src: url("C:\Photoshop, Corel\Яндекс.Практикум\dev\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondmedium.ttf") format('truetype');
+}
+
+  div {
+    font-family: 'EB Garamond';
+    font-weight: 500;
+  }
+
+ @font-face {
+    font-family: 'EB Garamond';
+    src: url("C:\Photoshop, Corel\Яндекс.Практикум\dev\s-chistogo-lista-main\s-chistogo-lista-main\fonts\ebgaramondregular.ttf") format('truetype');
+ }
+
+   div {
+    font-family: 'EB Garamond';
+    font-weight: 400;
+   } 
+
+ @font-face {
+    font-family: 'Inter';
+    src: url("C:\Photoshop, Corel\Яндекс.Практикум\dev\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interregular.ttf") format('truetype');
+}
+  
+  div {
+    font-family: 'Inter';
+    font-weight: 400;
+  }
+
+  @font-face {
+    font-family: 'Inter';
+    src: url("C:\Photoshop, Corel\Яндекс.Практикум\dev\s-chistogo-lista-main\s-chistogo-lista-main\fonts\interbold.ttf") format('truetype');
+  }
+
+   div {
+    font-family: 'Inter';
+    font-weight: 700;
+   }
+
+
